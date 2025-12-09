@@ -1,0 +1,27 @@
+{
+    "name": "NFT #13",
+    "description": "Auto-generated NFT variation",
+    "image": "output/00013.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "BACKGROUND_COMMON_1"
+        },
+        {
+            "trait_type": "BADAN",
+            "value": "BADAN_COMMON_1"
+        },
+        {
+            "trait_type": "KEPALA",
+            "value": "KEPALA_COMMON_1"
+        },
+        {
+            "trait_type": "WAJAH",
+            "value": "WAJAH_LIMITED_1"
+        },
+        {
+            "trait_type": "PROPS",
+            "value": "PROPS_COMMON_2"
+        }
+    ]
+}

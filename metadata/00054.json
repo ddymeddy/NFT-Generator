@@ -1,0 +1,27 @@
+{
+    "name": "NFT #54",
+    "description": "Auto-generated NFT variation",
+    "image": "output/00054.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "BACKGROUND_COMMON_2"
+        },
+        {
+            "trait_type": "BADAN",
+            "value": "BADAN_COMMON_1"
+        },
+        {
+            "trait_type": "KEPALA",
+            "value": "KEPALA_COMMON_2"
+        },
+        {
+            "trait_type": "WAJAH",
+            "value": "WAJAH_COMMON_2"
+        },
+        {
+            "trait_type": "PROPS",
+            "value": "PROPS_RARE_1"
+        }
+    ]
+}
