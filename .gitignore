@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated outputs (besar, sebaiknya tidak dipush)
+output/
+gifs/
+gif_all_preview/
+metadata/
+viewer/manifest.json
